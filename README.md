@@ -117,6 +117,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td>File Status</td>
 		<td align="center">No</td>
 	</tr>
+	<tr>
+		<td>Ruby</td>
+		<td><b>Solarized Dark</b><br/><i>Solarized Light in progress</i></td>
+	</tr>
 </table>
 
 
